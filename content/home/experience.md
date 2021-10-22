@@ -22,28 +22,52 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: English Instructor
+    company: Orange County Public Schools
+    date_start: 'August 2017'
+    date_end: 'Current'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Facilitating learning utilizing a combined one-to-one computer technology and traditional classroom.
+        * Adept at analyzing data received from student test scores.
+        * Builds strong interpersonal relationships with students to foster capable, lifelong learners.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Marketing Coordinator II
+    company: HNTB Corporation
+    date_start: 'December 2016'
+    date_end: 'May 2017'
+    description: |2-
+        Responsibilities included:
+        
+        * Managing pursuit teams responding to multi-million dollar bids/RFQs/RFPs.
+        * Facilitating strategy sessions, war rooms, and mock presentations to prepare for presentations to clients.
+        * Utilizing Adobe InDesign, Photoshop and Illustrator to create pre-sells for clients.
+        * Utilizing Microsoft CRM to create and maintain client accounts and action items
+
+- title: Media and Outreach Conslutant
+    company: Global-5 Communications, Inc.
+    date_start: 'August 2016'
+    date_end: 'December 2016'
+    description: |2-
+        Responsibilities included:
+        
+        * Developing content and collateral while maintaining brand for social media and management thereof.
+        * Copyediting and project proposal writing.
+        * Conducting client outreach.
+
+- title: North Florida Marketing Coordinator
+    company: Wood (formerly Amec Foster Wheeler)
+    date_start: 'March 2015'
+    date_end: 'August 2016'
+    description: |2-
+        Responsibilities included:
+        
+        * Putting together proposals based on solicitations from various municipalities through procurement services.
+        * Developing digital collateral content using InDesign.
+        * Managing internal file and online databases for resumes, projects, and presentations.
+
+
 
 design:
   columns: '2'
