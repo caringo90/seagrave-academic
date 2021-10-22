@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Text and Technology
+  - course: Ph.D. in Text and Technology
     institution: University of Central Florida
     year: Expected 2025
-  - course: MA in Mass Communication
+  - course: M.A. in Mass Communication
     institution: University of Florida
     year: 2014
-  - course: BAs in English Literature and Religion
+  - course: B.A. in English Literature and B.A. in Religion
     institution: Florida State University
     year: 2012
 
