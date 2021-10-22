@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Carina Seagrave Fuller holds her M.A. in Mass Communications with a focus in Journalism from the University of Florida. During her time at UF, her research focused on the social media usage of non-profit organizations to recruit volunteers. She was also a copywriter for the Independent Florida Alligator. Carina’s B.S. is in English Literature and Religion from the Florida State University. Carina currently teaches 9th grade ELA in Orange County. Her research interests are based in the impact of true crime podcasts on female vigilance and social media.
+Carina Seagrave Fuller holds her M.A. in Mass Communications with a focus in Journalism from the University of Florida. During her time at UF, her research focused on the social media usage of non-profit organizations to recruit volunteers. She was also a copywriter for the Independent Florida Alligator. Carina’s B.S. is in English Literature and Religion from the Florida State University. Carina currently teaches 9th grade ELA in Orange County. Her research investigates the impact of true crime podcasts on female vigilance and social media.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
