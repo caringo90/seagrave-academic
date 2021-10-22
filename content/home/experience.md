@@ -43,7 +43,7 @@ experience:
         * Managing pursuit teams responding to multi-million dollar bids/RFQs/RFPs.
         * Facilitating strategy sessions, war rooms, and mock presentations to prepare for presentations to clients.
         * Utilizing Adobe InDesign, Photoshop and Illustrator to create pre-sells for clients.
-        * Utilizes Microsoft CRM to create and maintain client accounts and action items
+        * Utilizing Microsoft CRM to create and maintain client accounts and action items
 
 - title: Media and Outreach Conslutant
     company: Global-5 Communications, Inc.
@@ -63,9 +63,9 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Put together proposals based on solicitations from various municipalities through procurement services.
-        * Developed digital collateral content using InDesign.
-        * Managed internal file and online databases for resumes, projects, and presentations.
+        * Putting together proposals based on solicitations from various municipalities through procurement services.
+        * Developing digital collateral content using InDesign.
+        * Managing internal file and online databases for resumes, projects, and presentations.
 
 
 
