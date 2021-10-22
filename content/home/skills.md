@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: fa-google-drive
+  icon: google-drive
   icon_pack: fab
   name: Google Drive/Docs
 - description: 80%
