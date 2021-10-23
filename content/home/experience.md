@@ -27,12 +27,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teacher
-    company: GenCoin
+  - title: High School English Instructor
+    company: Orange County Public Schools
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2017-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
