@@ -47,7 +47,7 @@ experience:
     company_logo: ''
     location: ''
     date_start: '2016-12-01'
-    date_end: '2016-06-01'
+    date_end: '2017-06-01'
     description: |2-
         Responsibilities include:
         
