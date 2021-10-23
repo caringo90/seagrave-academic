@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: English Instructor
     company: Orange County Public Schools
-    date_start: 2017-08-01
+    date_start: '2017-08-01'
     date_end: 
     description: |2-
         Responsibilities include:
@@ -35,8 +35,8 @@ experience:
         
   - title: Marketing Coordinator II
     company: HNTB Corporation
-    date_start: 2016-12-01
-    date_end: 2016-06-01
+    date_start: '2016-12-01'
+    date_end: '2016-06-01'
     description: |2-
         Responsibilities included:
         
@@ -47,8 +47,8 @@ experience:
 
 - title: Media and Outreach Conslutant
     company: Global-5 Communications, Inc.
-    date_start: 2016-08-01
-    date_end: 2016-12-01
+    date_start: '2016-08-01'
+    date_end: '2016-12-01'
     description: |2-
         Responsibilities included:
         
@@ -58,8 +58,8 @@ experience:
 
 - title: North Florida Marketing Coordinator
     company: Wood (formerly Amec Foster Wheeler)
-    date_start: 2015-03-01
-    date_end: 2016-07-31
+    date_start: '2015-03-01'
+    date_end: '2016-07-31'
     description: |2-
         Responsibilities included:
         
