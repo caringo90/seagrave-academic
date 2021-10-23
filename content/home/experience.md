@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 9th Grade English Instructor
+  - title: English Instructor
     company: Orange County Public Schools
-    date_start: Aug 2017
+    date_start: 2017-08-01
     date_end: 
     description: |2-
         Responsibilities include:
@@ -35,7 +35,8 @@ experience:
         
   - title: Marketing Coordinator II
     company: HNTB Corporation
-    date_start: Dec 2016
+    date_start: 2016-12-01
+    date_end: 2016-06-01
     description: |2-
         Responsibilities included:
         
@@ -46,8 +47,8 @@ experience:
 
 - title: Media and Outreach Conslutant
     company: Global-5 Communications, Inc.
-    date_start: Aug 2016
-    date_end: Dec 2016
+    date_start: 2016-08-01
+    date_end: 2016-12-01
     description: |2-
         Responsibilities included:
         
@@ -57,8 +58,8 @@ experience:
 
 - title: North Florida Marketing Coordinator
     company: Wood (formerly Amec Foster Wheeler)
-    date_start: Mar 2015
-    date_end: Aug 2016
+    date_start: 2015-03-01
+    date_end: 2016-07-31
     description: |2-
         Responsibilities included:
         
