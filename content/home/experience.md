@@ -30,14 +30,14 @@ experience:
   - title: High School English Instructor
     company: Orange County Public Schools
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: ''
+    location: Florida
     date_start: '2017-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Facilitating learning utilizing a combined one-to-one computer technology and traditional classroom.
         * Modelling
         * Deploying
         
