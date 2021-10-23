@@ -38,8 +38,8 @@ experience:
         Responsibilities include:
         
         * Facilitating learning utilizing a combined one-to-one computer technology and traditional classroom.
-        * Modelling
-        * Deploying
+        * Adept at analyzing data received from student test scores.
+        * Builds strong interpersonal relationships with students to foster capable, lifelong learners.
         
   - title: Professor of Semiconductor Physics
     company: University X
@@ -49,6 +49,48 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: High School English Instructor
+    company: Orange County Public Schools
+    company_url: ''
+    company_logo: ''
+    location: Florida
+    date_start: '2017-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Facilitating learning utilizing a combined one-to-one computer technology and traditional classroom.
+        * Adept at analyzing data received from student test scores.
+        * Builds strong interpersonal relationships with students to foster capable, lifelong learners.
+
+  - title: High School English Instructor
+    company: Orange County Public Schools
+    company_url: ''
+    company_logo: ''
+    location: Florida
+    date_start: '2017-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Facilitating learning utilizing a combined one-to-one computer technology and traditional classroom.
+        * Adept at analyzing data received from student test scores.
+        * Builds strong interpersonal relationships with students to foster capable, lifelong learners.
+
+  - title: High School English Instructor
+    company: Orange County Public Schools
+    company_url: ''
+    company_logo: ''
+    location: Florida
+    date_start: '2017-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Facilitating learning utilizing a combined one-to-one computer technology and traditional classroom.
+        * Adept at analyzing data received from student test scores.
+        * Builds strong interpersonal relationships with students to foster capable, lifelong learners.
 
 design:
   columns: '2'
